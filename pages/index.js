@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <p>
           Hey, I'm <strong className="text-blue-500">Jack Shelton</strong>. I'm
           a Software Engineer from Dallas, Texas. You can contact me on{" "}
-          <a href="https://twitter.com/thejackshelton">Twitter</a>
+          <a href="https://twitter.com/thejackshelton">Twitter</a>.
         </p>
         <br />
         <p>
